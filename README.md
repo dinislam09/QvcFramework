@@ -1,2 +1,2 @@
 # QvcFramework
-This is iqbal from USA.
+This is iqbal from usa
